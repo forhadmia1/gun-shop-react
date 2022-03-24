@@ -1,0 +1,14 @@
+.modal-card{
+    width: 500px;
+    height: 80px;
+    padding: 10px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.288);
+    border-radius: 5px;
+}
+.modal-card img{
+    height: 90%;
+    margin-right: 20px;
+}
